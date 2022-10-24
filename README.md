@@ -1,7 +1,6 @@
 # Project 00 For NeXT CS
-### Class Period:
-### Name0: YOUR NAME HERE
-### Name1: OTHER NAME HERE (delete this line if you are working solo)
+### Class Period: 5
+### Name0: Aidan O'Donnell
 ---
 
 Your goal is to write a functional analog clock program, like the one above. Your code must contain the following (but can, and should, have other things).
